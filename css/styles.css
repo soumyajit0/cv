@@ -17,3 +17,6 @@ h2{
 h3{
   color: #8BDB81;
 }
+a:hover{
+  color: gold;
+}
