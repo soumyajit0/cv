@@ -8,6 +8,9 @@ hr{
   border-width: 5px;
   width: 5%;
 }
+a:hover{
+  color: gold;
+}
 h1{
   color: #66BFBF;
 }
@@ -17,6 +20,6 @@ h2{
 h3{
   color: #8BDB81;
 }
-a:hover{
-  color: gold;
+.name{
+  color: #00B4D8;
 }
